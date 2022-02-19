@@ -16,6 +16,6 @@ body {
 
 #imgstyle {
     border-style:2px outset green;
-	width: 200px;
-	height:250 px;
+	max-width: 200px;
+	max-height:250 px;
 }
