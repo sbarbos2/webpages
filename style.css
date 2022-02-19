@@ -15,7 +15,7 @@ body {
 }
 
 #imgstyle {
-    border-style:2px outset green;
+    border:2px outset green;
 	max-width: 200px;
 	max-height:250 px;
 }
