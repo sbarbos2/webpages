@@ -1,0 +1,21 @@
+/*
+ *Name: Steven Barbosa
+ *UnityID: Sbarbos2
+ *Date: 2/18/2022
+ *Assignment: HTML Independent Assignment
+ *Description: Create a page about me
+ */
+ 
+body {
+	background-color:#FFCCCB;
+}
+
+.borderstyle {
+    border: 2px solid red;
+}
+
+#imgstyle {
+    border-style:2px outset green;
+	width: 200px;
+	height:250 px;
+}
